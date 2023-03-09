@@ -1,0 +1,14 @@
+name: PluginArtvaz
+version: '${project.version}'
+main: me.bazartvaz.pluginartvaz.PluginArtvaz
+api-version: 1.19
+commands:
+  hunter:
+    description: Hunter role
+    usage: /<command>
+  speedrunner:
+    description: Speedrunner role
+    usage: /<command>
+  startgame:
+    description: Start game
+    usage: /<command>
